@@ -55,9 +55,9 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Prosthetic Hand](https://github.com/yourusername/prosthetic-hand) | Multi-DOF EMG-controlled prosthetic hand | Embedded C, PCB Design, 3D Printing |
-| [CNC Router](https://github.com/yourusername/cnc-router) | DIY CNC machine (4x4 ft) for aluminum and wood | CNC, Embedded Systems |
-| [ESP32 Scratch Programmer](https://github.com/yourusername/esp32-scratch) | Scratch-like block-based code uploader for ESP32 | Python, Embedded Systems |
+| [Prosthetic Hand](https://github.com/syedfaqeeh/prosthetic-hand) | Multi-DOF EMG-controlled prosthetic hand | Embedded C, PCB Design, 3D Printing |
+| [CNC Router](https://github.com/syedfaqeeh/cnc-router) | DIY CNC machine (4x4 ft) for aluminum and wood | CNC, Embedded Systems |
+| [Robi ](https://github.com/syedfaqeeh/Robi-Desktop-Companion) | Desktop Comapnion | Python, Embedded Systems |
 
 ---
 
