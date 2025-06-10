@@ -55,9 +55,10 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [Robi ](https://github.com/syedfaqeeh/Robi-Desktop-Companion) | Desktop Comapnion | Python, Embedded Systems |
 | [Prosthetic Hand](https://github.com/syedfaqeeh/Prosthetic-Hand) | Multi-DOF EMG-controlled prosthetic hand | Embedded C, PCB Design, 3D Printing, CAD, CAM, Composites(Carbon fiber) |
 | [CNC Router](https://github.com/syedfaqeeh/cnc-router) | DIY CNC machine (2x2 ft) for wood engraving | CNC, Embedded Systems |
-| [Robi ](https://github.com/syedfaqeeh/Robi-Desktop-Companion) | Desktop Comapnion | Python, Embedded Systems |
+
 
 ---
 
