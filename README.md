@@ -40,11 +40,31 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
   </a> 
 </p>
 
-
+https://github.com/syedfaqeeh/logos/tree/main/electronics
 ⚡ Electronics & PCB
-<p align="center"> <a href="https://www.altium.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium" width="50" height="50"/></a> <a href="https://www.kicad.org/" target="_blank"><img src="pics/icons/kicad.png" alt="KiCAD" width="50" height="50"/></a> <a href="https://www.labcenter.com/" target="_blank"><img src="https://seeklogo.com/images/L/labcenter-electronics-logo-002A2D2C4C-seeklogo.com.png" alt="Proteus" width="50" height="50"/></a> <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="pics/icons/esp32.png" alt="ESP32" width="50" height="50"/></a> <a href="https://www.arduino.cc/" target="_blank"><img src="pics/icons/arduino.png" alt="Arduino" width="50" height="50"/></a> <a href="https://www.raspberrypi.org/" target="_blank"><img src="pics/icons/raspberrypi.png" alt="Raspberry Pi" width="50" height="50"/></a> </p>
+<p align="center"> 
+  <a href="https://www.altium.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/altium.png" alt="Altium" width="50" height="50"/>
+  </a> 
+  <a href="https://www.kicad.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/KiCad.svg" alt="KiCAD" width="100" height="50"/>
+  </a> 
+  <a href="https://www.labcenter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/proteus.png" alt="Proteus" width="50" height="50"/>
+  </a> 
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/esp.png" alt="ESP32" width="50" height="60"/>
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/arduino.png" alt="Arduino" width="70" height="60"/>
+  </a> 
+  <a href="https://www.raspberrypi.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/raspberry-pi-3.png" alt="Raspberry Pi" width="100" height="60"/>
+  </a> 
+</p>
 
 
+https://github.com/syedfaqeeh/logos/tree/main/programming
 💻 Programming
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img src="pics/icons/c-language.svg" alt="C" width="50" height="50"/></a> <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/></a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a> <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/VHDL_logo.png" alt="VHDL" width="50" height="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/></a> <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Siemens_logo.svg" alt="PLC" width="50" height="50"/></a> </p>
 
