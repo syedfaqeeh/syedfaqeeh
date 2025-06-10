@@ -64,9 +64,18 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 </p>
 
 
-https://github.com/syedfaqeeh/logos/tree/main/programming
+
 💻 Programming
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img src="pics/icons/c-language.svg" alt="C" width="50" height="50"/></a> <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/></a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a> <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/VHDL_logo.png" alt="VHDL" width="50" height="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/></a> <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Siemens_logo.svg" alt="PLC" width="50" height="50"/></a> </p>
+<p align="center"> 
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/programming/c.png" alt="C" width="50" height="50"/>
+  </a> 
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/></a> 
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/></a> 
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a> 
+ 
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/></a> 
+</p>
 
 https://github.com/syedfaqeeh/logos/tree/main/other
 🪚 Maker Skills
