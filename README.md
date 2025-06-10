@@ -21,37 +21,17 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 ## 🛠️ Skills & Tools
 
 ### 🚧 CAD & Design
-![SolidWorks](https://img.shields.io/badge/SolidWorks-009688?style=for-the-badge&logo=solidworks&logoColor=white)
-![Onshape](https://img.shields.io/badge/Onshape-0288D1?style=for-the-badge&logo=onshape&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-FF0000?style=for-the-badge&logo=sketchup&logoColor=white)
-
-
-
-
-### ⚡ Electronics & PCB
-![Altium](https://img.shields.io/badge/Altium%20Designer-AEAEAE?style=for-the-badge&logo=altiumdesigner&logoColor=black)
-![KiCAD](https://img.shields.io/badge/KiCAD-4479A1?style=for-the-badge&logo=kicad&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-6A1B9A?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+<p align="center"> <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank"><img src="pics/icons/fusion.png" alt="Fusion 360" width="50" height="50"/></a> <img src="https://img.shields.io/badge/SolidWorks-009688?style=for-the-badge&logo=solidworks&logoColor=white"/> <img src="https://img.shields.io/badge/Onshape-0288D1?style=for-the-badge&logo=onshape&logoColor=white"/> <img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/> <img src="https://img.shields.io/badge/SketchUp-FF0000?style=for-the-badge&logo=sketchup&logoColor=white"/> </p>
+###  Electronics & PCB
+<p align="center"> <a href="https://www.kicad.org/" target="_blank"><img src="pics/icons/kicad.png" alt="KiCAD" width="50" height="50"/></a> <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="pics/icons/esp32.png" alt="ESP32" width="50" height="50"/></a> <a href="https://www.arduino.cc/" target="_blank"><img src="pics/icons/arduino.png" alt="Arduino" width="50" height="50"/></a> <a href="https://www.raspberrypi.org/" target="_blank"><img src="pics/icons/raspberrypi.png" alt="Raspberry Pi" width="50" height="50"/></a> </p> <p align="center"> <img src="https://img.shields.io/badge/Altium%20Designer-AEAEAE?style=for-the-badge&logo=altiumdesigner&logoColor=black"/> <img src="https://img.shields.io/badge/Proteus-6A1B9A?style=for-the-badge"/> </p>
 ### 💻 Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-800000?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC%20Programming-009688?style=for-the-badge)
-
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img src="pics/icons/c-language.svg" alt="C" width="50" height="50"/></a> </p> <p align="center"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-FF6600?style=for-the-badge&logo=mathworks&logoColor=white"/> <img src="https://img.shields.io/badge/VHDL-800000?style=for-the-badge"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/PLC%20Programming-009688?style=for-the-badge"/> </p>
+### 🪚 Maker Skills
+<p align="center"> <a href="https://github.com/AleksaHeler/woodworking" target="_blank"><img src="pics/icons/woodworking.png" alt="Woodworking" width="50" height="50"/></a> <a href="https://www.klipper3d.org/" target="_blank"><img src="pics/icons/3dprint.svg" alt="3D Printing" width="50" height="50"/></a> </p>
+### 🎮 Game & Visual Development
+<p align="center"> <a href="https://unity.com/" target="_blank"><img src="pics/icons/unity.svg" alt="Unity" width="50" height="50"/></a> <a href="https://processing.org/" target="_blank"><img src="pics/icons/processing.png" alt="Processing" width="50" height="50"/></a> </p>
 ### 🛠️ Other Tools
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Filmora](https://img.shields.io/badge/Filmora-2C8DBF?style=for-the-badge&logo=filmora&logoColor=white)
-
+<p align="center"> <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Filmora-2C8DBF?style=for-the-badge&logo=filmora&logoColor=white"/> </p>
 ---
 
 ## 🚧 Featured Projects
