@@ -19,7 +19,7 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 ---
 
 ## 🛠️ Skills & Tools
-https://github.com/syedfaqeeh/logos/tree/main/CAD_Companese
+
 ### 🚧 CAD & Design
 
 <p align="center"> 
@@ -40,13 +40,20 @@ https://github.com/syedfaqeeh/logos/tree/main/CAD_Companese
   </a> 
 </p>
 
+
 ⚡ Electronics & PCB
 <p align="center"> <a href="https://www.altium.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium" width="50" height="50"/></a> <a href="https://www.kicad.org/" target="_blank"><img src="pics/icons/kicad.png" alt="KiCAD" width="50" height="50"/></a> <a href="https://www.labcenter.com/" target="_blank"><img src="https://seeklogo.com/images/L/labcenter-electronics-logo-002A2D2C4C-seeklogo.com.png" alt="Proteus" width="50" height="50"/></a> <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="pics/icons/esp32.png" alt="ESP32" width="50" height="50"/></a> <a href="https://www.arduino.cc/" target="_blank"><img src="pics/icons/arduino.png" alt="Arduino" width="50" height="50"/></a> <a href="https://www.raspberrypi.org/" target="_blank"><img src="pics/icons/raspberrypi.png" alt="Raspberry Pi" width="50" height="50"/></a> </p>
+
+
 💻 Programming
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank"><img src="pics/icons/c-language.svg" alt="C" width="50" height="50"/></a> <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/></a> <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/></a> <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a> <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/VHDL_logo.png" alt="VHDL" width="50" height="50"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/></a> <a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/14/Siemens_logo.svg" alt="PLC" width="50" height="50"/></a> </p>
+
+https://github.com/syedfaqeeh/logos/tree/main/other
 🪚 Maker Skills
 <p align="center"> <a href="https://github.com/AleksaHeler/woodworking" target="_blank"><img src="pics/icons/woodworking.png" alt="Woodworking" width="50" height="50"/></a> <a href="https://www.klipper3d.org/" target="_blank"><img src="pics/icons/3dprint.svg" alt="3D Printing" width="50" height="50"/></a> </p>
 
+
+https://github.com/syedfaqeeh/logos/tree/main/other
 🛠️ Other Tools
 <p align="center"> <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="Microsoft Office" width="50" height="50"/></a> <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="50" height="50"/></a> <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Filmora_Logo.png" alt="Filmora" width="50" height="50"/></a> </p>
 ---
