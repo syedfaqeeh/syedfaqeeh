@@ -19,9 +19,27 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 ---
 
 ## 🛠️ Skills & Tools
-
+https://github.com/syedfaqeeh/logos/tree/main/CAD_Companese
 ### 🚧 CAD & Design
-<p align="center"> <a href="https://www.solidworks.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" alt="SolidWorks" width="50" height="50"/></a> <a href="https://www.onshape.com/" target="_blank"><img src="https://seeklogo.com/images/O/onshape-logo-7EDDE6076B-seeklogo.com.png" alt="Onshape" width="50" height="50"/></a> <a href="https://www.autodesk.com/products/autocad/overview" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/autocad.svg" alt="AutoCAD" width="50" height="50"/></a> <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank"><img src="pics/icons/fusion.png" alt="Fusion 360" width="50" height="50"/></a> <a href="https://www.sketchup.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/sketchup.svg" alt="SketchUp" width="50" height="50"/></a> </p>
+
+<p align="center"> 
+  <a href="https://www.solidworks.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/solidworks.png" alt="SolidWorks" width="100" height="70"/>
+  </a> 
+  <a href="https://www.onshape.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/Onshape.png" alt="Onshape" width="100" height="40"/>
+  </a> 
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/autocad.png" alt="AutoCAD" width="100" height="50"/>
+  </a> 
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/fusion.png" alt="Fusion 360" width="100" height="60"/>
+  </a> 
+  <a href="https://www.sketchup.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/sketchup.png" alt="SketchUp" width="50" height="50"/>
+  </a> 
+</p>
+
 ⚡ Electronics & PCB
 <p align="center"> <a href="https://www.altium.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/altium-designer.svg" alt="Altium" width="50" height="50"/></a> <a href="https://www.kicad.org/" target="_blank"><img src="pics/icons/kicad.png" alt="KiCAD" width="50" height="50"/></a> <a href="https://www.labcenter.com/" target="_blank"><img src="https://seeklogo.com/images/L/labcenter-electronics-logo-002A2D2C4C-seeklogo.com.png" alt="Proteus" width="50" height="50"/></a> <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"><img src="pics/icons/esp32.png" alt="ESP32" width="50" height="50"/></a> <a href="https://www.arduino.cc/" target="_blank"><img src="pics/icons/arduino.png" alt="Arduino" width="50" height="50"/></a> <a href="https://www.raspberrypi.org/" target="_blank"><img src="pics/icons/raspberrypi.png" alt="Raspberry Pi" width="50" height="50"/></a> </p>
 💻 Programming
