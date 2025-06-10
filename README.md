@@ -19,81 +19,87 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 ---
 
 ## 🛠️ Skills & Tools
-
 ### 🚧 CAD & Design
 
-<p align="center"> 
-  <a href="https://www.solidworks.com/" target="_blank">
+<p align="center" style="text-decoration: none;"> 
+  <a href="https://www.solidworks.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/solidworks.png" alt="SolidWorks" width="100" height="60"/>
   </a> 
-  <a href="https://www.onshape.com/" target="_blank">
+  <a href="https://www.onshape.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/Onshape.png" alt="Onshape" width="110" height="40"/>
   </a> 
-  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+  <a href="https://www.autodesk.com/products/autocad/overview" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/autocad.png" alt="AutoCAD" width="100" height="50"/>
   </a> 
-  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank">
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/fusion.png" alt="Fusion 360" width="100" height="60"/>
   </a> 
-  <a href="https://www.sketchup.com/" target="_blank">
+  <a href="https://www.sketchup.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/sketchup.png" alt="SketchUp" width="50" height="50"/>
   </a> 
 </p>
 
-⚡ Electronics & PCB
-<p align="center"> 
-  <a href="https://www.altium.com/" target="_blank">
+### ⚡ Electronics & PCB
+
+<p align="center" style="text-decoration: none;"> 
+  <a href="https://www.altium.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/altium.png" alt="Altium" width="50" height="50"/>
   </a> 
-  <a href="https://www.kicad.org/" target="_blank">
+  <a href="https://www.kicad.org/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/KiCad.svg.png" alt="KiCAD" width="100" height="50"/>
   </a> 
-  <a href="https://www.labcenter.com/" target="_blank">
+  <a href="https://www.labcenter.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/Proteus.png" alt="Proteus" width="60" height="50"/>
   </a> 
-  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
+  <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/esp.png" alt="ESP32" width="50" height="60"/>
   </a> 
-  <a href="https://www.arduino.cc/" target="_blank">
+  <a href="https://www.arduino.cc/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/arduino.png" alt="Arduino" width="70" height="60"/>
   </a> 
-  <a href="https://www.raspberrypi.org/" target="_blank">
+  <a href="https://www.raspberrypi.org/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/raspberry-pi-3.png" alt="Raspberry Pi" width="80" height="60"/>
   </a> 
 </p>
 
+### 💻 Programming
 
-
-💻 Programming
-<p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank">
+<p align="center" style="text-decoration: none;"> 
+  <a href="https://www.cprogramming.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/programming/c.png" alt="C" width="50" height="50"/>
   </a> 
-<a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/></a> 
-<a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/></a> 
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/></a> 
+  <a href="https://www.cplusplus.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/>
+  </a> 
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/>
+  </a> 
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/>
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/>
+  </a> 
 </p>
 
+### 🪚 Maker Skills
 
-🪚 Maker Skills
-<p align="center"> 
-  <a href="https://github.com/AleksaHeler/woodworking" target="_blank">
+<p align="center" style="text-decoration: none;"> 
+  <a href="https://github.com/AleksaHeler/woodworking" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/diy.png" alt="diy" width="50" height="50"/>
   </a> 
-  <a href="https://www.klipper3d.org/" target="_blank">
+  <a href="https://www.klipper3d.org/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/printng.jpg" alt="3D Printing" width="50" height="50"/>
   </a> 
 </p>
 
+### 🛠️ Other Tools
 
-
-🛠️ Other Tools
-<p align="center"> 
-  <a href="https://www.canva.com/" target="_blank">
+<p align="center" style="text-decoration: none;"> 
+  <a href="https://www.canva.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/can.png" alt="canva" width="40" height="40"/>
   </a> 
-  <a href="https://filmora.wondershare.com/" target="_blank">
+  <a href="https://filmora.wondershare.com/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/filmora.webp" alt="Filmora" width="50" height="50"/>
   </a> 
 </p>
