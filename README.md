@@ -40,7 +40,6 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
   </a> 
 </p>
 
-
 ⚡ Electronics & PCB
 <p align="center"> 
   <a href="https://www.altium.com/" target="_blank">
@@ -73,18 +72,32 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 <a href="https://www.cplusplus.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/></a> 
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="50" height="50"/></a> 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/></a> 
- 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="50" height="50"/></a> 
 </p>
 
-https://github.com/syedfaqeeh/logos/tree/main/other
+
 🪚 Maker Skills
-<p align="center"> <a href="https://github.com/AleksaHeler/woodworking" target="_blank"><img src="pics/icons/woodworking.png" alt="Woodworking" width="50" height="50"/></a> <a href="https://www.klipper3d.org/" target="_blank"><img src="pics/icons/3dprint.svg" alt="3D Printing" width="50" height="50"/></a> </p>
+<p align="center"> 
+  <a href="https://github.com/AleksaHeler/woodworking" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/diy.png" alt="diy" width="50" height="50"/>
+  </a> 
+  <a href="https://www.klipper3d.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/printng.jpg" alt="3D Printing" width="50" height="50"/>
+  </a> 
+</p>
 
 
-https://github.com/syedfaqeeh/logos/tree/main/other
+
 🛠️ Other Tools
-<p align="center"> <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="Microsoft Office" width="50" height="50"/></a> <a href="https://www.canva.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="50" height="50"/></a> <a href="https://filmora.wondershare.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Filmora_Logo.png" alt="Filmora" width="50" height="50"/></a> </p>
+<p align="center"> 
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/can.png" alt="canva" width="40" height="40"/>
+  </a> 
+  <a href="https://filmora.wondershare.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/other/filmora.webp" alt="Filmora" width="50" height="50"/>
+  </a> 
+</p>
+
 ---
 
 ## 🚧 Featured Projects
