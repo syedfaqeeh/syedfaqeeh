@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/syed-muhammad-faqeeh-shah-08a7501a3)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:syedfaqeeh@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
-[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/syedfaqeeh)
+[![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)](https://github.com/syedfaqeeh)
 
 ---
 
