@@ -55,8 +55,8 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [Prosthetic Hand](https://github.com/syedfaqeeh/prosthetic-hand) | Multi-DOF EMG-controlled prosthetic hand | Embedded C, PCB Design, 3D Printing |
-| [CNC Router](https://github.com/syedfaqeeh/cnc-router) | DIY CNC machine (4x4 ft) for aluminum and wood | CNC, Embedded Systems |
+| [Prosthetic Hand](https://github.com/syedfaqeeh/Prosthetic-Hand) | Multi-DOF EMG-controlled prosthetic hand | Embedded C, PCB Design, 3D Printing, CAD, CAM, Composites(Carbon fiber) |
+| [CNC Router](https://github.com/syedfaqeeh/cnc-router) | DIY CNC machine (2x2 ft) for wood engraving | CNC, Embedded Systems |
 | [Robi ](https://github.com/syedfaqeeh/Robi-Desktop-Companion) | Desktop Comapnion | Python, Embedded Systems |
 
 ---
@@ -70,8 +70,7 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 
 - 🛫 **Future Goals:**  
   - Publish impactful research in smart prosthetics and intelligent manufacturing  
-  - Pursue a PhD abroad in AI-driven manufacturing  
-  - Launch a manufacturing-focused startup in Pakistan  
+
 
 ---
 
@@ -79,8 +78,8 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 
 <div align="center">
 
-![Syed Faqeeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Syed Faqeeh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfaqeeh&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfaqeeh&layout=compact&theme=radical)
 
 </div>
 
