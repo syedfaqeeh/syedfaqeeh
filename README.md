@@ -26,6 +26,9 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![SketchUp](https://img.shields.io/badge/SketchUp-FF0000?style=for-the-badge&logo=sketchup&logoColor=white)
+![SketchUp](https://img.shields.io/badge/Cult3d-FF0000?style=for-the-badge&logo=Cukt3dColor=white)
+
+
 
 ### ⚡ Electronics & PCB
 ![Altium](https://img.shields.io/badge/Altium%20Designer-AEAEAE?style=for-the-badge&logo=altiumdesigner&logoColor=black)
