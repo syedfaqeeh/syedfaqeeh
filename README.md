@@ -24,10 +24,10 @@ https://github.com/syedfaqeeh/logos/tree/main/CAD_Companese
 
 <p align="center"> 
   <a href="https://www.solidworks.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/solidworks.png" alt="SolidWorks" width="100" height="70"/>
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/solidworks.png" alt="SolidWorks" width="100" height="60"/>
   </a> 
   <a href="https://www.onshape.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/Onshape.png" alt="Onshape" width="100" height="40"/>
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/Onshape.png" alt="Onshape" width="110" height="40"/>
   </a> 
   <a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/CAD_Companese/autocad.png" alt="AutoCAD" width="100" height="50"/>
