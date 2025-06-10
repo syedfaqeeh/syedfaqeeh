@@ -40,17 +40,17 @@ I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep p
   </a> 
 </p>
 
-https://github.com/syedfaqeeh/logos/tree/main/electronics
+
 ⚡ Electronics & PCB
 <p align="center"> 
   <a href="https://www.altium.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/altium.png" alt="Altium" width="50" height="50"/>
   </a> 
   <a href="https://www.kicad.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/KiCad.svg" alt="KiCAD" width="100" height="50"/>
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/KiCad.svg.png" alt="KiCAD" width="100" height="50"/>
   </a> 
   <a href="https://www.labcenter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/proteus.png" alt="Proteus" width="50" height="50"/>
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/Proteus.png" alt="Proteus" width="60" height="50"/>
   </a> 
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/esp.png" alt="ESP32" width="50" height="60"/>
@@ -59,7 +59,7 @@ https://github.com/syedfaqeeh/logos/tree/main/electronics
     <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/arduino.png" alt="Arduino" width="70" height="60"/>
   </a> 
   <a href="https://www.raspberrypi.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/raspberry-pi-3.png" alt="Raspberry Pi" width="100" height="60"/>
+    <img src="https://raw.githubusercontent.com/syedfaqeeh/logos/main/electronics/raspberry-pi-3.png" alt="Raspberry Pi" width="80" height="60"/>
   </a> 
 </p>
 
