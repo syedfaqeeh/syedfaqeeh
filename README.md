@@ -12,9 +12,9 @@
 I am a **committed, hands-on Mechatronics Engineer** from Pakistan with a deep passion for **robotics, automation, embedded systems, CNC machining, and intelligent manufacturing.** I have built everything from **prosthetic hands and EV systems to CNC routers and educational robotic kits.**
 
 💡 **What I Bring:**
-- 🛠️ Extensive practical skills: CNC, 3D printing, laser cutting, embedded programming.
-- 🤖 Experience in multi-DOF prosthetics, PCB design, and battery pack development.
-- 🚀 A research-driven mindset with patents filed in prosthetics and sensor enclosures.
+- 🛠️ Extensive practical skills: CNC, 3D printing, laser cutting, embedded programming and PCB desiging.
+- 🤖 Experience in Multi-DOF Prosthetics, PCB design, CAD desiging and Battery pack development.
+- 🚀 A research-driven mindset with patents filed in prosthetics and emg sensor.
 
 ---
 
